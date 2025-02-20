@@ -57,7 +57,7 @@
 | 5 | **PGAERR** | Programlama hizalama hatası oluştuğunda **1** olur. |
 | 4 | **WRPERR** | Yazma koruması olan bir bölgeye yazılmaya çalıştığında **1** olur. | 
 | 1 | **OPERR** | Geçersiz bir Flash işlemi yapıldığında **1** olur. | 
-| 0 | **EOP | Flash işlemi başarıyla tamamlandıysa 1 olur. |
+| 0 | **EOP** | Flash işlemi başarıyla tamamlandıysa 1 olur. |
 
 * **Kullanım :** Flash işlemleri öncesi ve sonrası hatalar ve işlemlerin tamamlanıp tamamlanmadığını kontrol etmek için kullanılır.
 
